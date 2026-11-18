@@ -1,0 +1,9 @@
+{
+  "product": "Windows Enterprise Server Console (WESC)",
+  "version": "2.1.0.0",
+  "releaseDate": "2026-11-18",
+  "minPwshVersion": "7.6.6",
+  "setupUrl": "https://github.com/Mrzyv/WESC/releases/latest/download/WESC_Setup.exe",
+  "setupSha256": "7F660AAACAA71990670547F24BDE09F3171AAAC9861E550B1ADB2E69B7B98C07",
+  "scriptSha256": "6C3B0F2E67927946C6BA47718767F8513516768D0AC69807BCFD0C718D207B6F"
+}
