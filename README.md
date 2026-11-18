@@ -6,18 +6,6 @@
 
 **Windows Enterprise Server Console (WESC)** is a real-time, 154-column symmetric Ring-0 & WMI/CIM telemetry, hardware diagnostics, and application management console engineered natively for **PowerShell 7.6.6+**.
 
----
-
-## Live Console Visuals (Windows Terminal & Legacy Conhost)
-
-### 1. Modern Windows Terminal (`wt.exe`) — Acrylic / GPU-Accelerated Rendering
-![WESC Windows Terminal View](assets/preview_terminal.jpg)
-
-### 2. Classic Windows Console Host (`conhost.exe`) — Direct Win32 VT100 Rendering
-![WESC Conhost View](assets/preview_conhost.jpg)
-
----
-
 ## Complete Telemetry & Interface Breakdown
 
 WESC renders a **154-column symmetric, zero-wrap diagnostic matrix** refreshing every **3 seconds** via native Win32 Virtual Terminal (VT) ANSI escape sequences. Everything visible on the screen is structured into four operational tiers:
